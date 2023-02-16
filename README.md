@@ -1,2 +1,2 @@
 # data-structures
-Data structures with Python according to the course on educative.io
+Data structures with Python based on the course on educative.io
